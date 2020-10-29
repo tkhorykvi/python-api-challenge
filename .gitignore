@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OpenWeatherMap API Key
+weather_api_key = "720a1a17162373c7564f4ce30dfe00ba"
+
+# Google API Key
+g_key = "AIzaSyCPmpZjT0ica9EjBY9wxLv2gSv_LPy7J6c"
